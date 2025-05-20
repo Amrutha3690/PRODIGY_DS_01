@@ -1,4 +1,5 @@
 Task 01: Visualizing Data Distribution:
+
 Description:
 For this task, I was assigned to create a **bar chart or histogram** to visualize the distribution of a **categorical or continuous variable**.  
 I chose to work with **world population data** to demonstrate my ability to handle and visualize both categorical and continuous data effectively using Python and data visualization libraries.
